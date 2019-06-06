@@ -1,0 +1,4 @@
+export const FETCH_POSTS_REQUEST = "FETCH_POSTS_REQUEST";
+export const FETCH_POSTS = "FETCH_POSTS";
+export const FETCH_POSTS_ERROR = "FETCH_POSTS_ERROR";
+export const NEW_POST = "NEW_POST";
